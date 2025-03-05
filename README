@@ -1,0 +1,1 @@
+purebw uses a set of pure load and store patterns to evaluate the maximum RAM access bandwidth sequentially, and in parallel using OpenMP
